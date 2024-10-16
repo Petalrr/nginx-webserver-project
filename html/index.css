@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, monospace;
+}
+
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.topCenter {
+    position: relative;
+    text-align: center;
+}
+
+.box {
+    width: 600px;
+    height: 600px;
+    border: 3px solid;
+}
+
+.main {
+    color: white;
+}
+
+
+.spaced {
+    margin: px;
+    margin-bottom: 0;
+}
+
+.font-bold {
+    font-weight:700
+}
+  
+.font-semibold {
+    font-weight:600
+}
+  
+.italic {
+    font-style:italic
+}
+
+.hover:text-ef-accent {
+
+    color: pink
+}
+
+h1, h2 {
+    margin-bottom: 0px !important;
+}
