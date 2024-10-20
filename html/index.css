@@ -4,7 +4,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, monospace;
 }
 
-.center {
+
+ul {
+  list-style:none;
+  margin:0;
+  padding:0
+}
+
+.center-in-div{
     position: fixed;
     top: 50%;
     left: 50%;
@@ -15,6 +22,16 @@ body {
 .topCenter {
     position: relative;
     text-align: center;
+}
+
+.bottom {
+    position: absolute;
+    vertical-align: text-bottom;
+}
+
+.left {
+    position: absolute;
+    text-align: left;
 }
 
 .box {

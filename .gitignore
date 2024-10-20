@@ -39,3 +39,6 @@ Thumbs.db
 # Other Files #
 ###############
 .conf
+Dockerfile
+Conf/
+temp/
