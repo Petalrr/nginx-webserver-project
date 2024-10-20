@@ -40,5 +40,6 @@ Thumbs.db
 ###############
 .conf
 Dockerfile
+.yaml
 Conf/
 temp/
