@@ -1,0 +1,21 @@
+.box {
+    width: 400px;
+    height: 400px;
+    border: 3px solid;
+}
+
+.center{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.indent{
+    margin: 25px;
+}
+
+.indent-deep{
+    margin: 50;
+}

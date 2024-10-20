@@ -1,0 +1,46 @@
+/*-----------------------*/
+
+/*  contains all things  */
+
+/*-----------------------*/
+@font-face {
+    font-family: "CU-Font";
+    src: url("../font/VCR_OSD_MONO_1.001.ttf");
+}
+
+body {
+    background-color: #424a4a;
+    color: white;
+    font-family: "CU-Font", monospace;
+}
+
+h1,
+h2,
+h3,
+h4{
+    margin-bottom: 0px !important;
+    color: white;
+}
+
+h2{
+    font-size: 18px;
+}
+
+
+li,
+ul,
+ol{
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover{
+    color:pink;
+}
