@@ -19,3 +19,10 @@
 .indent-deep{
     margin: 50px;
 }
+
+.nav-bar{
+    position: fixed;
+    z-index: 50;
+    right: 0;
+    
+}
