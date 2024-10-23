@@ -39,7 +39,6 @@ Thumbs.db
 # Other Files #
 ###############
 *.conf
-*.yaml
 Dockerfile
 Conf/
 temp/
